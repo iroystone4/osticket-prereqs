@@ -23,34 +23,34 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
--  [- Item 1](https://imgur.com/igb4KlI)
--  [- Item 2](https://imgur.com/31Dw29n)
--  [- Item 3](https://imgur.com/7EhSHBx)
+-  Item 1
+-  Item 2
+-  Item 3
 - Item 4
 - Item 5
 
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+[<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>](https://imgur.com/a/FLn2Gwh)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Creating a virtual machine involves three main steps. First, a hypervisor or virtualization software is installed on a physical host computer. Then, the virtual machine configuration is defined, specifying factors such as the desired operating system, hardware resources, and network settings. Finally, the hypervisor creates the virtual machine by allocating resources from the host computer and emulating the desired hardware environment, enabling the virtual machine to function as a self-contained and isolated entity within the host system.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+[<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>](https://imgur.com/AahN8Gd)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Creating an osTicket via remote desktop involves two steps. Firstly, establish a remote desktop connection to the server where osTicket will be installed. Then, access the server's operating system remotely and proceed with the osTicket installation process, configuring the necessary settings and database connectivity to set up the ticketing system.
+</p>
+<br />
+
+<p>
+[<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>](https://imgur.com/lWoDmOI)
+</p>
+<p>
+To sign into remote desktop, launch the remote desktop client, enter the IP address or hostname of the remote computer, and provide the appropriate credentials to establish a secure remote connection.
 </p>
 <br />
