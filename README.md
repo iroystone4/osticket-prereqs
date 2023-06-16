@@ -23,9 +23,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-[- Item 1](https://imgur.com/igb4KlI)
-[- Item 2](https://imgur.com/31Dw29n)
-[- Item 3](https://imgur.com/7EhSHBx)
+-  [- Item 1](https://imgur.com/igb4KlI)
+-  [- Item 2](https://imgur.com/31Dw29n)
+-  [- Item 3](https://imgur.com/7EhSHBx)
 - Item 4
 - Item 5
 
