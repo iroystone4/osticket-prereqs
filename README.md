@@ -47,8 +47,7 @@ Creating an osTicket via remote desktop involves two steps. Firstly, establish a
 </p>
 <br />
 
-<p>
-[<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>](https://imgur.com/lWoDmOI)
+<p>[<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>](https://imgur.com/lWoDmOI)
 </p>
 <p>
 To sign into remote desktop, launch the remote desktop client, enter the IP address or hostname of the remote computer, and provide the appropriate credentials to establish a secure remote connection.
